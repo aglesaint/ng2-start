@@ -1,5 +1,7 @@
-* Angular2 
----
+sept, 7 2016
+*** Angular2 ***
+****************
+
 https://school.scotch.io/getting-started-with-angular-2
 ---
 
@@ -10,8 +12,8 @@ Shell : latest release of nodejs
 + node -v
 + v6.0.0
 
-to test localhost then type : npm run lite
+to test localhost then type : **npm run lite**
 
 + update script from package.json to mount local http server 
 
-to test type npm	start
+to test type : **npm	start**
