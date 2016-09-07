@@ -1,5 +1,8 @@
 * Angular2 
------------
+---
+https://school.scotch.io/getting-started-with-angular-2
+---
+
 Shell : latest release of nodejs
 
 + curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
